@@ -1,45 +1,44 @@
-Hi there 👋 I'm Aman!
-I'm a passionate Web Developer from Pakistan 🇵🇰 who loves building web applications and solving real-world problems with code.
+<h1 align="center">Hi there 👋 I'm <a href="https://www.linkedin.com/in/amanullah-khan-17b862263/" target="_blank">Amanullah Khan</a>!</h1>
+<h3 align="center">🚀 Full Stack Web Developer | Angular & Node.js Expert</h3>
 
-🚀 Tech Stack
+---
 
-Languages: JavaScript, TypeScript, HTML, CSS  
-Frameworks/Libraries: Angular, React, Node.js, Express, Next.js  
-Databases: MongoDB, MySQL, PostgreSQL  
-Cloud: Google Cloud, Firebase  
-Tools: Git, Docker, Postman, VS Code
+💻 I'm currently working on web apps at Maksof  
+📚 Learning about system architecture and performance optimization  
+🎯 Future Goals: Build multilingual & scalable applications  
+📬 Connect with me: [LinkedIn](https://www.linkedin.com/in/amanullah-khan-17b862263/)
 
+---
 
-🌟 I'm currently working on
+### 🧰 Technologies & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,angular,react,nodejs,express,mongodb,postgres,tailwind,docker,git,github,figma,linux" />
+</p>
 
-Building scalable web applications using Angular, Node.js, and Next.js.  
-Creating dynamic multi-language platforms.  
-Exploring code storage and media optimization techniques.
+---
 
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maksof-aman&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maksof-aman&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
-📚 I'm currently learning
+---
 
-DevOps practices to streamline development workflows.  
-Advanced database optimization strategies.  
-Tailwind CSS for performant UI design.
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=maksof-aman&theme=monokai&margin-w=15" />
+</p>
 
+---
 
-🤝 I'm looking to collaborate on
+### 🧠 Fun Fact
+> I debug better after chai ☕ and late-night coding 🧑‍💻
 
-Full-stack web apps.  
-Open-source Angular/Node.js projects.  
-Anything innovative and impactful!
+---
 
-
-📬 How to reach me
-
-GitHub: github.com/maksof-aman  
-Portfolio: https://amanullahkhanportfolio.vercel.app/  
-Instagram: amanullah_khan_17b6263
-
-
-🏆 My GitHub Stats
-
-
-✨ Fun Fact
-I’m always experimenting with new tech to create seamless user experiences—let's build something amazing together! 🚀
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</p>
